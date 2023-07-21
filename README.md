@@ -1,4 +1,4 @@
-# Retail and E-commerce Manager
+# Retail and E-commerce Managing System
 <html>
 <p><img src="https://lh3.googleusercontent.com/vuGw4N-0W78lrZOFVmAg9l2FOHjMUL4idrbnenTijUG0l-khFN2a0URWxsPTb3oVDRpnBASV69GuC7OBzUujpc9N8-6LwPdxXO-4fQRRM__LFQ7iYiOmJ2Cedvgy70kRPwVQHphlq-_ygEc9WtWd-UI" width="624" height="275"></p>
 

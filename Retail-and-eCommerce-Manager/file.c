@@ -9,7 +9,7 @@ struct Product {
     char name[50];
     double price;
     int quantity;
-}
+};
 
 struct Product products[MAX_PRODUCTS];
 int numProducts = 0;
